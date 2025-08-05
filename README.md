@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Igor
 
-<!--
-**igorsilvaDS/igorsilvaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's use some data, ML/AI, `programming` and automation techniques to create escalable solutions?
 
-Here are some ideas to get you started:
+```py
+import DataScience-Solutions as ds
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>I work with:</h3>
+  <a href="https://github.com/igorsilvaDS"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,numpy,pandas,matplotlib,seaborn,pytorch,r,git,mysql,postgresql,pbi,looker,gcp" />
+  </a>
+  
+---
+
+$$e^{i\pi} + 1 = 0$$
+
