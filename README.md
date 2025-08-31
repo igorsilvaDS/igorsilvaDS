@@ -19,5 +19,3 @@ import Automation from Automatos
 <div align="center"><br>
   
   # $$e^{i\pi} + 1 = 0$$
-  
-<\dic>
